@@ -1,0 +1,6 @@
+{
+  "name": "Anuvaa",
+  "description": "Offline-first classroom tool connecting Hindi-speaking teachers and Santhali-speaking students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
